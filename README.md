@@ -1,3 +1,4 @@
 # demo
 This is my first git repository.
-Author: T Akhila
+<br>
+<b>Author:</b> T Akhila
